@@ -3,6 +3,8 @@
 I made this simple desktop application in order to get started with the PyQt5 library as part of the Human-Computer Interaction (HCI) course in semester 5.  
 The python script allows you to measure your **clicks per second (CPS)** within a fixed time window.
 
+![screenshot](screenshot.png)
+
 ## 🧪 Features
 
 - Measures how many times you can click a button within a set duration (`seconds_limit`, default **5 seconds**).  
